@@ -1,0 +1,2 @@
+OpenNLP is a machine learning-based library for processing natural language.
+It helps in tasks like tokenization, sentence detection, and more.
